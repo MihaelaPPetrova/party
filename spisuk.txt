@@ -3,3 +3,4 @@ vodka
 uiski
 menta
 salam
+shunka
