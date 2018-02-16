@@ -6,3 +6,4 @@ salam
 smetana 
 blatove
 zahar
+shokolad
